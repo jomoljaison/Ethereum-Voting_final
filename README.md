@@ -54,8 +54,8 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
-   cd dVoting
+   git clone git@github.com:jomoljaison/Voting_final.git
+   cd Voting_final
    ```
 
 1. Run local Ethereum blockchain
@@ -75,7 +75,7 @@ A brief explanation on the basic workflow of the application.
 1. Deploy smart contract to the (local) blockchain
 
    ```shell
-   # on the dVoting directory
+   # on the Voting_final directory
    truffle migrate
    ```
 
